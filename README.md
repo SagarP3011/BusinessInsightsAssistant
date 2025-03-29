@@ -42,6 +42,8 @@ Click " Clear All Queries" to reset the query history.
 
 # Future Enhancements
  1.Database Integration – Store query history for long-term access
+ 
  2.Charts & Graphs – Visualize insights with analytics
+ 
  3.Voice Query Support – Enable voice-based queries
 
