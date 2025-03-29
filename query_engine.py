@@ -8,7 +8,7 @@ class QueryEngine:
 
     def setup_gemini(self):
         """Set up Google Gemini API key."""
-        API_KEY = "AIzaSyC72JEneLAR0D0Lp5dNP-CF6rzGMupLxyc"  
+        API_KEY = "Your_API_Key"  
         os.environ["GOOGLE_API_KEY"] = API_KEY
         genai.configure(api_key=API_KEY)
         self.model = genai.GenerativeModel("gemini-1.5-pro")
